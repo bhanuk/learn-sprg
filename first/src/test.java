@@ -10,7 +10,7 @@ public class test {
 	 }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello GitHub");
+		System.out.println("Hello GitHub i changed");
 		//call innerclass method
 		test t=new test();
 		t.act();
